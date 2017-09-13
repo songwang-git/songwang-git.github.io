@@ -1,17 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/songwang-git/songwang-git.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am interested in developing something interesting.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Deep Reinforcement Learning with Surrogate Agent-Environment Interface
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In this paper we propose surrogate agent-environment interface (SAEI) in reinforcement learning. We also state that learning based on probability surrogate agent-environment interface gives optimal policy of task agent-environment interface. We introduce surrogate probability action and develope the probability surrogate action deterministic policy gradient (PSADPG) algorithm based on SAEI. This algorithm enables continuous control of discrete action. The experiments show PSADPG achieves the performance of DQN in the long run for selected tasks. ([See paper](https://arxiv.org/abs/1709.03942))
 
 ```markdown
-Syntax highlighted code block
+Highlight is being developing...
+# Ideal
 
-# Header 1
+![Image](src)
+
 ## Header 2
 ### Header 3
 
@@ -26,12 +26,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Kaggle Competition “Helping Santa's Helpers”
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/songwang-git/songwang-git.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I was competing in the Kaggle data science competetion. This 'Santa' is more about optimization and algorithm development. In my solutions, the best result is given by Solution 2 which gives the ranked 49 result. However, with minor change it will give a better result with a bug which can make it ranked around 38. The bug is that it will generate 10000001 assignments other than 10000000. Solution opt is the first step to the optimization. ([See code](https://github.com/songwang-git/Santa))
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
