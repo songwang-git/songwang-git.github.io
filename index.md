@@ -4,9 +4,9 @@ I am interested in developing something interesting.
 
 ### Deep Reinforcement Learning with Surrogate Agent-Environment Interface
 
-In this paper we propose surrogate agent-environment interface (SAEI) in reinforcement learning. We also state that learning based on probability surrogate agent-environment interface gives optimal policy of task agent-environment interface. We introduce surrogate probability action and develope the probability surrogate action deterministic policy gradient (PSADPG) algorithm based on SAEI. This algorithm enables continuous control of discrete action. The experiments show PSADPG achieves the performance of DQN in the long run for selected tasks. ([See paper](https://arxiv.org/abs/1709.03942))
+In this paper, we propose surrogate agent-environment interface (SAEI) in reinforcement learning. We also state that learning based on probability surrogate agent-environment interface gives optimal policy of task agent-environment interface. We introduce surrogate probability action and develop the probability surrogate action deterministic policy gradient (PSADPG) algorithm based on SAEI. This algorithm enables continuous control of discrete action. The experiments show PSADPG achieves the performance of DQN in the long run for selected tasks. ([See paper](https://arxiv.org/abs/1709.03942))
 
-![Amidar Screenshot](/images/Amidar_2600_screenscreenshot.png)
+![Amidar Screenshot](https://github.com/songwang-git/songwang-git.github.io/blob/master/Amidar_2600_screenscreenshot.png)
 
 
 ### Kaggle Competition “Helping Santa's Helpers”
